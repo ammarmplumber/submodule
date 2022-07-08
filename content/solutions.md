@@ -806,7 +806,7 @@ function openTab(evt, tabName) {
                 <li>Helps track and manage revenue collection, including property tax distribution and collection</li>
             </ul>
         </div>
-        <div class="flex-child">
+        <div class="flex-child-1">
             <img src="https://i.imgur.com/pVKd4IZ.jpg" width="400px" class="center"/>
         </div>
     </div>
@@ -843,7 +843,7 @@ function openTab(evt, tabName) {
         </div>
     </div>
     <div class="flexbox-container">
-        <div class="flexbox-child-1">
+        <div class="flexbox-child">
             <h3>For Finance Departments:</h3>
             <ul class="roman" style="list-style-type:disc">
                 <li>Help to smoothly manage budgeting, accounting, producrement, and payroll</li>
@@ -874,12 +874,12 @@ function openTab(evt, tabName) {
                 <li>Can assess data on manpower, equipment, and costs for each project</li>
             </ul>
         </div>
-        <div class="flexbox-child-2">
+        <div class="flexbox-child-1">
             <img src="https://i.imgur.com/SwXxieW.jpg" width="400px" class="center"/>
         </div>
     </div>
     <div class="flexbox-container">
-        <div class="flexbox-child-3">
+        <div class="flexbox-child">
             <h3>For Permits:</h3>
             <ul class="roman" style="list-style-type:disc">
                 <li>Effectively track active applications and payments for permits</li>
@@ -897,7 +897,7 @@ function openTab(evt, tabName) {
                 <li>Facilitate quick, paperless processing of permits</li>
             </ul>
         </div>
-        <div class="flexbox-child-3">
+        <div class="flexbox-child-1">
             <img src="https://i.imgur.com/zHMM28T.jpg" width="400px" class="center"/>
         </div>
     </div>
