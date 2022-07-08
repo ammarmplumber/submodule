@@ -1,13 +1,16 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Hugo Serif Theme"
+title = "AdComp Systems Group"
 themesDir = "themes"
 theme = "hugo-serif-theme"
+
+[markup.goldmark.renderer]
+unsafe= true
 
 [module]
   [module.hugoVersion]
     extended = true
-    min = "0.55.0"
+    min = "0.80.0"
     
 [params]
   # In most cases you will only want to set the google_analytics_id OR the google_tag_manager_id. If you have Google Analytics included in your GTM tags don't put your GA ID here. Otherwise your data might be useless.
@@ -19,20 +22,19 @@ theme = "hugo-serif-theme"
     show_services_button = true  # show / hide the "view all services" button
 
   [params.logo]
-    mobile = "images/logo/logo-mobile.svg"
-    mobile_height = "36px"
-    desktop = "images/logo/logo.svg"
-    desktop_height = "36px"
+    mobile = "images/logo/AdcompLogo.webp"
+    mobile_height = "100px"
+    desktop = "images/logo/AdcompLogo.webp"
+    desktop_height = "150px"
     alt = "Serif - A Hugo Business Theme"
 
   [params.fonts]
     # sets the google font link in layouts/partials/google-fonts.html
-    google_fonts = 'https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Source+Sans+Pro:wght@400;700&display=swap'
-    heading = "Playfair Display"
-    base = "Source Sans Pro"
+    heading = "Helvetica"
+    base = "Helvetica"
 
   [params.colors]
-    primary = "#f24088"
+    primary = "#E42217"
     black = "#2f2f41"
     white = "#ffffff"
     white_offset = "#f6f7ff"
@@ -52,24 +54,39 @@ theme = "hugo-serif-theme"
 [menu]
   # Main Menu
   [[menu.main]]
-    name = "Services"
-    url = "/services/"
-      weight = 1
+    name = "About"
+    url = "/about/"
+    weight = 1
 
   [[menu.main]]
-      name = "Team"
-      url = "/team/"
+    name = "Solutions"
+    url = "/solutions/"
       weight = 2
 
   [[menu.main]]
-      name = "About"
-      url = "/about/"
+      name = "Testimonials"
+      url = "/testimonials/"
       weight = 3
+
+  [[menu.main]]
+      name = "Hat Mania"
+      url = "/hatmania/"
+      weight = 4
+
+  [[menu.main]]
+      name = "Kiosk Gallery"
+      url = "/kioskgallery/"
+      weight = 5
+
+  [[menu.main]]
+      name = "FAQ"
+      url = "/faq/"
+      weight = 6
 
   [[menu.main]]
       name = "Contact"
       url = "/contact/"
-      weight = 4
+      weight = 7
 
   # Footer Menu
   [[menu.footer]]

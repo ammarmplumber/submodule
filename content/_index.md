@@ -1,12 +1,12 @@
 ---
-title: 'Homepage'
-meta_title: 'Hugo Serif Theme'
-description: "Serif is a modern business theme for Hugo."
-intro_image: "images/illustrations/pointing.svg"
-intro_image_absolute: true
+title: 'AdComp Systems Group'
+meta_title: 'AdComp Systems Group'
+description: "AdComp Systems is a payments- and courts-focused GovTech company"
+intro_image: "images/illustrations/frontpage.webp"
+intro_image_absolute: false
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Hugo Business Theme.
+# Convenience fosters compliance.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Simplify payment processes, streamline government functions, and better serve communities

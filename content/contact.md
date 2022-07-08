@@ -3,14 +3,12 @@ title: 'Contact'
 date: 2018-02-22T17:01:34+07:00
 layout: contact
 ---
+<br>
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+<h3 align=center>
+To contact customer support, call our toll-free number.
 
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Sunday    | Closed          |
+<p style="color: red;">877-275-7694</p>
+</h3>
+
+<iframe src="https://spreadsheets.google.com/embeddedform?formkey=dDhmeWdYVVBxank5blhaYlpRbjNVb0E6MA" loading="lazy" width="100%" height="2050" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>

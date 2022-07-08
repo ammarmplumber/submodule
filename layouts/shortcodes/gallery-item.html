@@ -1,0 +1,55 @@
+<!--layouts/shortcodes/gallery-item.html-->
+{{- $src := .Get "src" -}}
+{{- $caption := .Get "caption" -}}
+{{- $vidid := .Get "vidid" -}}
+{{ with $vidid }}
+
+<style>
+    .flex-item {
+        /*width: 350px;
+        height: null;*/
+        flex-grow: 1;
+        flex-shrink: 0;
+        flex-basis: 200px;
+        justify-content: flex-start;
+        display: flex;
+        padding-left: 20px;
+    }
+
+    .flex-item img {
+        cursor: pointer;
+        max-width: 200px;
+    }
+
+    figcaption {
+        color: black;
+    }
+
+    a:link {
+        text-decoration: none;
+    }
+</style>
+
+<div class="flex-item">
+    <a href="https://www.youtube.com/watch?v={{$vidid}}" target="_blank">
+        <figure>
+            <img src="https://img.youtube.com/vi/{{$vidid}}/0.jpg" loading="lazy" />
+            {{ end }}
+            <!--<div style="clear: both;"></div>-->
+            {{ with $caption }}
+            <figcaption>{{$caption}}</figcaption>
+            {{ end }}
+        </figure>
+    </a>
+  </div>
+
+<!-- <div>
+    <a href="https://www.youtube.com/watch?v={{$vidid}}" width="1%">
+        <img src="http://img.youtube.com/vi/{{$vidid}}/0.jpg" width="30%" />
+    </a>
+    
+
+        <div class="caption"><span>{{$caption}}</span></div>
+    
+</div> -->
+
