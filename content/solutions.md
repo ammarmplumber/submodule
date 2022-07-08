@@ -807,7 +807,7 @@ function openTab(evt, tabName) {
             </ul>
         </div>
         <div class="flex-child">
-            <img src="https://i.imgur.com/pVKd4IZ.jpg" class="center"/>
+            <img src="https://i.imgur.com/pVKd4IZ.jpg" width="400px" class="center"/>
         </div>
     </div>
     <div class="flexbox-container">
@@ -839,7 +839,7 @@ function openTab(evt, tabName) {
             </ul>
         </div>
         <div class="flexbox-child">
-        <img src="https://i.imgur.com/rRD75Jm.jpg" class="center"/>
+        <img src="https://i.imgur.com/rRD75Jm.jpg" width="400px" class="center"/>
         </div>
     </div>
     <div class="flexbox-container">
@@ -861,7 +861,7 @@ function openTab(evt, tabName) {
             </ul>
         </div>
         <div class="flexbox-child-1">
-            <img src="https://i.imgur.com/25R7Ryn.jpg" class="center"/>
+            <img src="https://i.imgur.com/25R7Ryn.jpg" width="400px" class="center"/>
         </div>
     </div>
     <div class="flexbox-container">
@@ -875,7 +875,7 @@ function openTab(evt, tabName) {
             </ul>
         </div>
         <div class="flexbox-child-2">
-            <img src="https://i.imgur.com/SwXxieW.jpg" class="center"/>
+            <img src="https://i.imgur.com/SwXxieW.jpg" width="400px" class="center"/>
         </div>
     </div>
     <div class="flexbox-container">
@@ -898,7 +898,7 @@ function openTab(evt, tabName) {
             </ul>
         </div>
         <div class="flexbox-child-3">
-            <img src="https://i.imgur.com/zHMM28T.jpg" class="center"/>
+            <img src="https://i.imgur.com/zHMM28T.jpg" width="400px" class="center"/>
         </div>
     </div>
     <a href="/contact/">Learn more</a>
