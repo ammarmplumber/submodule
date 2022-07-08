@@ -838,8 +838,8 @@ function openTab(evt, tabName) {
                 <li>Request a dismissal or pre-trial</li>
             </ul>
         </div>
-        <div class="flexbox-child">
-        <img src="https://i.imgur.com/rRD75Jm.jpg" width="400px" class="center"/>
+        <div class="flexbox-child-1">
+        <img src="https://i.imgur.com/rRD75Jm.jpg" width="400px" class="center" style="padding-left: 30px"/>
         </div>
     </div>
     <div class="flexbox-container">
@@ -861,7 +861,7 @@ function openTab(evt, tabName) {
             </ul>
         </div>
         <div class="flexbox-child-1">
-            <img src="https://i.imgur.com/25R7Ryn.jpg" width="400px" class="center"/>
+            <img src="https://i.imgur.com/25R7Ryn.jpg" width="400px" class="center" style="padding-left: 30px"/>
         </div>
     </div>
     <div class="flexbox-container">
