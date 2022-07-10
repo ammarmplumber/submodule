@@ -113,6 +113,7 @@ date: 2018-02-22T17:01:34+07:00
     flex:1;
     border: 1px;
     min-width: 400px;
+    max-width: 800px;
     padding-right: 30px;
 }
 
@@ -811,14 +812,14 @@ function openTab(evt, tabName) {
         </div>
     </div>
     <div class="flexbox-container">
-        <div class="flexbox-child">
+        <div class="flex-child">
             <h3>For Municipal Courts:</h3>
             <ul class="roman" style="list-style-type:disc">
                 <li>Online Dispute Resolution (ODR) module</li>
             </ul>
             <ul class="square" style="list-style-type:circle">
                 <li>Staff can send and receive e-forms through ODR system</li>
-                <li>Defendants can upload relevant e-documents and proof of compliance and use an e-signature to complete affidavits</li>
+                <li>Defendants can upload relevant e-documents, proof of compliance and use an e-signature to complete affidavits</li>
             </ul>
             <ul class="roman" style="list-style-type:disc">
                 <li>Customizable -- integrated list of offense codes, case types, and follow-up processes to meet courts' specific needs</li>
@@ -838,12 +839,12 @@ function openTab(evt, tabName) {
                 <li>Request a dismissal or pre-trial</li>
             </ul>
         </div>
-        <div class="flexbox-child-1">
-        <img src="https://i.imgur.com/rRD75Jm.jpg" width="400px" class="center" style="padding-left: 30px"/>
+        <div class="flex-child-1">
+            <img src="https://i.imgur.com/rRD75Jm.jpg" width="400px" class="center"/>
         </div>
     </div>
     <div class="flexbox-container">
-        <div class="flexbox-child">
+        <div class="flex-child">
             <h3>For Finance Departments:</h3>
             <ul class="roman" style="list-style-type:disc">
                 <li>Help to smoothly manage budgeting, accounting, producrement, and payroll</li>
@@ -860,12 +861,12 @@ function openTab(evt, tabName) {
                 <li>Track purchase orders</li>
             </ul>
         </div>
-        <div class="flexbox-child-1">
+        <div class="flex-child-1">
             <img src="https://i.imgur.com/25R7Ryn.jpg" width="400px" class="center" style="padding-left: 30px"/>
         </div>
     </div>
     <div class="flexbox-container">
-        <div class="flexbox-child-2">
+        <div class="flex-child">
             <h3>For Public Works:</h3>
             <ul class="roman" style="list-style-type:disc">
                 <li>Easily monitor service requests and work orders</li>
@@ -874,12 +875,12 @@ function openTab(evt, tabName) {
                 <li>Can assess data on manpower, equipment, and costs for each project</li>
             </ul>
         </div>
-        <div class="flexbox-child-1">
+        <div class="flex-child-1">
             <img src="https://i.imgur.com/SwXxieW.jpg" width="400px" class="center"/>
         </div>
     </div>
     <div class="flexbox-container">
-        <div class="flexbox-child">
+        <div class="flex-child">
             <h3>For Permits:</h3>
             <ul class="roman" style="list-style-type:disc">
                 <li>Effectively track active applications and payments for permits</li>
@@ -897,7 +898,7 @@ function openTab(evt, tabName) {
                 <li>Facilitate quick, paperless processing of permits</li>
             </ul>
         </div>
-        <div class="flexbox-child-1">
+        <div class="flex-child-1">
             <img src="https://i.imgur.com/zHMM28T.jpg" width="400px" class="center"/>
         </div>
     </div>
