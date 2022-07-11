@@ -808,7 +808,7 @@ function openTab(evt, tabName) {
             </ul>
         </div>
         <div class="flex-child-1">
-            <img src="https://i.imgur.com/pVKd4IZ.jpg" width="400px" class="center"/>
+            <img src="https://i.imgur.com/pVKd4IZ.jpg" loading="lazy" width="400px" class="center"/>
         </div>
     </div>
     <div class="flexbox-container">
@@ -840,7 +840,7 @@ function openTab(evt, tabName) {
             </ul>
         </div>
         <div class="flex-child-1">
-            <img src="https://i.imgur.com/rRD75Jm.jpg" width="400px" class="center"/>
+            <img src="https://i.imgur.com/rRD75Jm.jpg" loading="lazy" width="400px" class="center"/>
         </div>
     </div>
     <div class="flexbox-container">
@@ -862,7 +862,7 @@ function openTab(evt, tabName) {
             </ul>
         </div>
         <div class="flex-child-1">
-            <img src="https://i.imgur.com/25R7Ryn.jpg" width="400px" class="center" style="padding-left: 30px"/>
+            <img src="https://i.imgur.com/25R7Ryn.jpg" loading="lazy" width="400px" class="center" style="padding-left: 30px"/>
         </div>
     </div>
     <div class="flexbox-container">
@@ -876,7 +876,7 @@ function openTab(evt, tabName) {
             </ul>
         </div>
         <div class="flex-child-1">
-            <img src="https://i.imgur.com/SwXxieW.jpg" width="400px" class="center"/>
+            <img src="https://i.imgur.com/SwXxieW.jpg" loading="lazy" width="400px" class="center"/>
         </div>
     </div>
     <div class="flexbox-container">
@@ -899,7 +899,7 @@ function openTab(evt, tabName) {
             </ul>
         </div>
         <div class="flex-child-1">
-            <img src="https://i.imgur.com/zHMM28T.jpg" width="400px" class="center"/>
+            <img src="https://i.imgur.com/zHMM28T.jpg" loading="lazy" width="400px" class="center"/>
         </div>
     </div>
     <a href="/contact/">Learn more</a>
@@ -924,7 +924,7 @@ function openTab(evt, tabName) {
             </ul>
         </div>
         <div class="flex-child">
-            <img src="https://i.imgur.com/mCHZXso.jpg" width="400px" class="center"/>
+            <img src="https://i.imgur.com/mCHZXso.jpg" loading="lazy" width="400px" class="center"/>
         </div>
     </div>
 <a href="/contact/">Learn more</a>
@@ -960,7 +960,7 @@ function openTab(evt, tabName) {
             </ul>
         </div>
         <div class="flex=child-1">
-            <img src="https://i.imgur.com/rhBvsDC.png?1" width="400px" class="center">
+            <img src="https://i.imgur.com/rhBvsDC.png?1" loading="lazy" width="400px" class="center">
         </div>
     </div>
     <a href="/contact/">Learn more</a>
@@ -1008,7 +1008,7 @@ function openTab(evt, tabName) {
         </ul>
         </div>
         <div class="flex-child">
-            <img src="https://i.imgur.com/aLbXwQI.png" width="400px" class="center"/>
+            <img src="https://i.imgur.com/aLbXwQI.png" loading="lazy" width="400px" class="center"/>
         </div>
     </div>
     <h2>Benefits</h2>
@@ -1024,7 +1024,7 @@ function openTab(evt, tabName) {
                 <li>Major saving = less grant writing for your department</li></ul>
         </div>
         <div class="flex-child">
-            <img src="https://i.imgur.com/JNfUAru.png" width="400px" class="center"/>
+            <img src="https://i.imgur.com/JNfUAru.png" loading="lazy" width="400px" class="center"/>
         </div>
     </div>
 <a href="/contact/">Learn more</a>
@@ -1086,7 +1086,7 @@ function openTab(evt, tabName) {
     </ul>
         </div>
         <div class="flex-child-1">
-            <img src="https://i.imgur.com/4rACbvh.png" width="400px" class="center"/>
+            <img src="https://i.imgur.com/4rACbvh.png" loading="lazy" width="400px" class="center"/>
         </div>
     </div>
 <a href="/contact/">Learn more</a>
@@ -1149,7 +1149,7 @@ function openTab(evt, tabName) {
         </ul>
         </div>
         <div class="flex-child">
-            <img src="https://i.imgur.com/ufxbZSP.jpg" width="400px" class="center"/>
+            <img src="https://i.imgur.com/ufxbZSP.jpg" loading="lazy" width="400px" class="center"/>
         </div>
     </div>
 <a href="/contact/">Learn more</a>
