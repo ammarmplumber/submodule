@@ -59,11 +59,6 @@ unsafe= true
     weight = 1
 
   [[menu.main]]
-    name = "Blog"
-    url = "/posts/"
-    weight = 8
-
-  [[menu.main]]
     name = "Solutions"
     url = "/solutions/"
       weight = 2
@@ -82,16 +77,21 @@ unsafe= true
       name = "Kiosk Gallery"
       url = "/kioskgallery/"
       weight = 5
+  
+[[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 6
 
   [[menu.main]]
       name = "FAQ"
       url = "/faq/"
-      weight = 6
+      weight = 7
 
   [[menu.main]]
       name = "Contact"
       url = "/contact/"
-      weight = 7
+      weight = 8
 
   # Footer Menu
   [[menu.footer]]
