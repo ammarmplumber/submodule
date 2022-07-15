@@ -1,4 +1,0 @@
-[submodule "themes/hugo-serif-theme"]
-	path = themes/hugo-serif-theme
-	url = https://github.com/ammarmplumber/hugo-serif-theme.git
-	branch = master
