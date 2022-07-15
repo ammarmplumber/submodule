@@ -78,10 +78,10 @@ unsafe= true
       url = "/kioskgallery/"
       weight = 5
   
-[[menu.main]]
-    name = "Blog"
-    url = "/posts/"
-    weight = 6
+  [[menu.main]]
+      name = "Blog"
+      url = "/posts/"
+      weight = 6
 
   [[menu.main]]
       name = "FAQ"
