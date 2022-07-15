@@ -6,3 +6,7 @@
 	path = content/posts
 	url = https://github.com/ammarmplumber/posts.git
 	branch = master
+[submodule "static/images/posts"]
+	path = static/images/posts
+	url = https://github.com/ammarmplumber/postimages.git
+	branch = master
