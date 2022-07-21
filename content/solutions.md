@@ -194,7 +194,7 @@ function openTab(evt, tabName) {
             <p>
                 Our bilingual, self-service payment kiosk works around the clock, providing residents with an easy solution to make contactless, in-person bill payments using cash, check or credit card.
                 <br>
-                <a href="/contact/">Learn more</a>
+                <a href="/jack/">Learn more</a>
             </p>
         </div>
     </div>
@@ -208,7 +208,7 @@ function openTab(evt, tabName) {
             <p>
                 Using their smartphones, residents can quickly and easily pay their utility bills or taxes. Recurring SMS reminders will ensure your residents don’t unintentionally miss a payment due date, leading to fewer defaults. This will help you increase collections as well as boost public confidence and trust in your services.
                 <br>
-                <a href="/contact/">Learn more</a>
+                <a href="/sms/">Learn more</a>
             </p>
         </div>
     </div>
@@ -264,7 +264,7 @@ function openTab(evt, tabName) {
             <p>
                 Use GovOnTrack to streamline your billing process and monitor collections. Our applications help you automatically generate statements for utilities and taxes that reflect residents’ payment history, account balance, and other details, helping you save time by eliminating the need to manually create these bills. GovOnTrack also helps you track and manage revenue collection, including property taxes.
                 <br>
-                <a href="/contact/">Learn more</a>
+                <a href="/got/">Learn more</a>
             </p>
         </div>
     </div>
@@ -278,7 +278,7 @@ function openTab(evt, tabName) {
             <p>
                 e-Documents provide a convenient alternative to printing and mailing paperwork for utilities, courts, taxes, and permits. Also accepts digital signatures from a smartphone, tablet, or computer.
                 <br>
-                <a href="/contact/">Learn more</a>
+                <a href="/dice/">Learn more</a>
             </p>
         </div>
     </div>
@@ -309,7 +309,7 @@ function openTab(evt, tabName) {
             <p>
                 Our Online Dispute Resolution (ODR) module is a customizable, web-based case or citation resolution system designed for municipal courts. Through this mobile-enabled technology, courts can provide defendants with options to pay a citation, sign up for a driver’s safety course, submit a request for deferred disposition, request a dismissal, or a pre-trial -- all through a single, convenient, user-friendly platform.
                 <br>
-                <a href="/contact/">Learn more</a>
+                <a href="/odr/">Learn more</a>
             </p>
         </div>
     </div>
@@ -323,7 +323,7 @@ function openTab(evt, tabName) {
             <p>
                 Courts On The Go is an intuitive technology that enables courts to set up virtual hearings and facilitate online dispute resolution. This platform allows courts to modernize services to streamline workflow and make courtrooms more accessible to citizens, helping them resolve legal issues quickly and avoid defaults.
                 <br>
-                <a href="/contact/">Learn more</a>
+                <a href="/remotemagistrate/">Learn more</a>
             </p>
         </div>
     </div>
@@ -337,7 +337,7 @@ function openTab(evt, tabName) {
             <p>
                 e-Documents provide a convenient alternative to printing and mailing paperwork for utilities, courts, taxes, and permits. Also accepts digital signatures from a smartphone, tablet, or computer.
                 <br>
-                <a href="/contact/">Learn more</a>
+                <a href="/dice/">Learn more</a>
             </p>
         </div>
     </div>
@@ -351,7 +351,7 @@ function openTab(evt, tabName) {
             <p>
                 Our bilingual, self-service payment kiosk works around the clock, providing residents with an easy solution to make contactless, in-person bill payments using cash, check or credit card.
                 <br>
-                <a href="/contact/">Learn more</a>
+                <a href="/jack/">Learn more</a>
             </p>
         </div>
     </div>
@@ -396,7 +396,7 @@ function openTab(evt, tabName) {
             <p>
                 Use GovOnTrack to streamline your billing process and monitor collections. Our applications help you automatically generate statements for utilities and taxes that reflect residents’ payment history, account balance, and other details, helping you save time by eliminating the need to manually create these bills. GovOnTrack also helps you track and manage revenue collection, including property taxes.
                 <br>
-                <a href="/contact/">Learn more</a>
+                <a href="/got/">Learn more</a>
             </p>
         </div>
     </div>
@@ -410,7 +410,7 @@ function openTab(evt, tabName) {
             <p>
                 Using their smartphones, residents can quickly and easily pay their utility bills or taxes. Recurring SMS reminders will ensure your residents don’t unintentionally miss a payment due date, leading to fewer defaults. This will help you increase collections as well as boost public confidence and trust in your services.
                 <br>
-                <a href="/contact/">Learn more</a>
+                <a href="/sms/">Learn more</a>
             </p>
         </div>
     </div>
@@ -424,7 +424,7 @@ function openTab(evt, tabName) {
             <p>
                 Our bilingual, self-service payment kiosk works around the clock, providing residents with an easy solution to make contactless, in-person bill payments using cash, check or credit card.
                 <br>
-                <a href="/contact/">Learn more</a>
+                <a href="/jack/">Learn more</a>
             </p>
         </div>
     </div>
@@ -480,7 +480,7 @@ function openTab(evt, tabName) {
             <p>
                 e-Documents provide a convenient alternative to printing and mailing paperwork for utilities, courts, taxes, and permits. Also accepts digital signatures from a smartphone, tablet, or computer.
                 <br>
-                <a href="/contact/">Learn more</a>
+                <a href="/dice/">Learn more</a>
             </p>
         </div>
     </div>
@@ -497,7 +497,7 @@ function openTab(evt, tabName) {
             <p>
                 GTAMS is an intuitive financial management system designed to provide airports with a reliable solution to oversee ground transportation fee payments and accounts. We offer GTAMS with a Commercial Vehicle Management System (CVMS), providing a comprehensive software suite to manage ground transport.
                 <br>
-                <a href="/contact/">Learn more</a>
+                <a href="/accountmgmt/">Learn more</a>
             </p>
         </div>
     </div>
@@ -525,7 +525,7 @@ function openTab(evt, tabName) {
             <p>
                 Our bilingual, self-service payment kiosk works around the clock, providing taxicabs, shuttle buses, and other commercial vehicles with an easy solution to make contactless, in-person bill payments using cash, check or credit card.
                 <br>
-                <a href="/contact/">Learn more</a>
+                <a href="/jack/">Learn more</a>
             </p>
         </div>
     </div>
@@ -584,7 +584,7 @@ function openTab(evt, tabName) {
             <p>
                 Using our kiosks, you can accept credit card or cash payments for parking fees or tickets, print and share thermal tickets with visitors, scan employee cards and adopt license plate recognition software to ensure a secure, convenient and safe parking experience for all employees and visitors.
                 <br>
-                <a href="/contact/">Learn more</a>
+                <a href="/jack/">Learn more</a>
             </p>
         </div>
     </div>
@@ -615,7 +615,7 @@ function openTab(evt, tabName) {
             <p>
                 With GovOnTrack, you can efficiently track service requests and work orders. Our user-friendly and efficient cloud-based software helps you smoothly manage work order transactions for labor, materials and services, and monitor projects.
                 <br>
-                <a href="/contact/">Learn more</a>
+                <a href="/got/">Learn more</a>
             </p>
         </div>
     </div>
@@ -629,7 +629,7 @@ function openTab(evt, tabName) {
             <p>
                 Through our Digital Interaction and Citizen Engagement (DICE) platform, you can use e-forms for work orders that can be electronically shared with vendors and stakeholders to facilitate efficient communication and faster turnaround time.
                 <br>
-                <a href="/contact/">Learn more</a>
+                <a href="/dice/">Learn more</a>
             </p>
         </div>
     </div>
@@ -646,7 +646,7 @@ function openTab(evt, tabName) {
             <p>
                 With GovOnTrack, you get easy-to-use cloud-based software applications that provide real-time data to enable confident decision-making and automate aspects of budgeting, accounting, procurement and payroll to enhance efficiency.
                 <br>
-                <a href="/contact/">Learn more</a>
+                <a href="/got/">Learn more</a>
             </p>
         </div>
     </div>
@@ -663,7 +663,7 @@ function openTab(evt, tabName) {
             <p>
                 Using GovOnTrack’s cloud-based services, you can track and manage business licenses, animal licenses, building permits, and more, across different stages from application and approval to renewal. By reducing dependence on paper-based processes, you can ensure faster turnaround and better project management to improve efficiency and foster greater customer satisfaction.
                 <br>
-                <a href="/contact/">Learn more</a>
+                <a href="/got/">Learn more</a>
             </p>
         </div>
     </div>
@@ -677,7 +677,7 @@ function openTab(evt, tabName) {
             <p>
                 With our Digital Interaction and Citizen Engagement (DICE) platform, you can allow citizens applying for a permit or license to submit any required documents and forms electronically to facilitate better tracking of document submissions and quickly process applications.
                 <br>
-                <a href="/contact/">Learn more</a>
+                <a href="/dice/">Learn more</a>
             </p>
         </div>
     </div>
@@ -939,7 +939,7 @@ function openTab(evt, tabName) {
                 <li>Makes courtoom more accessible to all defendants, incuding those unable to attend for reasons beyond control</li>
                 <li>Platform is for courts at every level -- state, county, municipal</li>
                 <li>Defendants can enter driver's license, citation number, or personal information to endter waiting room</li>
-                <li>Courts cna electronically send and receive documents</li>
+                <li>Courts can electronically send and receive documents</li>
             </ul>
             <h2>Key Benefits</h2>
             <ul class="roman" style="list-style-type:disc">
