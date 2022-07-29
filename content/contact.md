@@ -6,7 +6,7 @@ layout: contact
 <br>
 
 <h3 align=center>
-To contact customer support, call our toll-free number.
+To contact sales or customer support, please call our toll-free number.
 
 <p style="color: red;">877-275-7694</p>
 </h3>
