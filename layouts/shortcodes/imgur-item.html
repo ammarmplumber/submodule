@@ -1,0 +1,44 @@
+<!--layouts/shortcodes/imgur-item.html-->
+{{- $src := .Get "src" -}}
+{{- $caption := .Get "caption" -}}
+{{- $imgid := .Get "imgid" -}}
+{{ with $imgid }}
+
+<style>
+    .flex-item {
+        /*width: 350px;
+        height: null;*/
+        flex-grow: 1;
+        flex-shrink: 0;
+        flex-basis: 200px;
+        justify-content: flex-start;
+        display: flex;
+        padding-left: 20px;
+    }
+
+    .flex-item img {
+        cursor: pointer;
+        max-width: 200px;
+    }
+
+    figcaption {
+        color: black;
+    }
+
+    a:link {
+        text-decoration: none;
+    }
+</style>
+
+<div class="flex-item">
+        <figure>
+            <img src="https://i.imgur.com/{{$imgid}}.jpg" loading="lazy" />
+            {{ end }}
+            <!--<div style="clear: both;"></div>-->
+            {{ with $caption }}
+            <figcaption>{{$caption}}</figcaption>
+            {{ end }}
+        </figure>
+  </div>
+
+
