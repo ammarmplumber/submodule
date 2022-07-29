@@ -11,12 +11,10 @@ date: 2018-02-22T17:01:34+07:00
     {{< imgur-item imgid="qDsKJqzh" caption=" " >}}
     {{< imgur-item imgid="IoBIYkoh" caption=" " >}}
     {{< imgur-item imgid="jEeB5Glh" caption=" " >}}
-    {{< imgur-item imgid="rN9J8Sah" caption=" " >}}
     {{< imgur-item imgid="C2ymqCRh" caption=" " >}}
     {{< imgur-item imgid="YsOwqMnh" caption=" " >}}
     {{< imgur-item imgid="D8U5B39h" caption=" " >}}
     {{< imgur-item imgid="GNPFlxth" caption=" " >}}
-    {{< imgur-item imgid="neFrddih" caption=" " >}}
     {{< imgur-item imgid="m8w3PTFh" caption=" " >}}
     {{< imgur-item imgid="pkm0qhAh" caption=" " >}}
     {{< imgur-item imgid="R8CSVBIh" caption=" " >}}
@@ -67,8 +65,6 @@ date: 2018-02-22T17:01:34+07:00
     {{< imgur-item imgid="d1HShGqh" caption=" " >}}
     {{< imgur-item imgid="x42beyCh" caption=" " >}}
     {{< imgur-item imgid="dzdLnfmh" caption=" " >}}
-    {{< imgur-item imgid="3R6U3EFh" caption=" " >}}
-    {{< imgur-item imgid="KAWgvFUh" caption=" " >}}
     {{< imgur-item imgid="VhBmTAyh" caption=" " >}}
     {{< imgur-item imgid="2Be4Tueh" caption=" " >}}
     {{< imgur-item imgid="iCIQwhAh" caption=" " >}}
@@ -101,7 +97,6 @@ date: 2018-02-22T17:01:34+07:00
     {{< imgur-item imgid="DEcy082h" caption=" " >}}
     {{< imgur-item imgid="ubbEdIIh" caption=" " >}}
     {{< imgur-item imgid="SxHIIePh" caption=" " >}}
-    {{< imgur-item imgid="KjyfWCQh" caption=" " >}}
     {{< imgur-item imgid="OAkrYbRh" caption=" " >}}
     {{< imgur-item imgid="BbB2JvLh" caption=" " >}}
     {{< imgur-item imgid="XUMuOmsh" caption=" " >}}
@@ -159,6 +154,5 @@ date: 2018-02-22T17:01:34+07:00
     {{< imgur-item imgid="EmVcPakh" caption=" " >}}
     {{< imgur-item imgid="fny4wY5h" caption=" " >}}
     {{< imgur-item imgid="Dw2mqZNh" caption=" " >}}
-    {{< imgur-item imgid="5tba55bh" caption=" " >}}
     {{< imgur-item imgid="ZDlAUsVh" caption=" " >}}
 {{< /gallery >}}
