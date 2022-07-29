@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Convenience fosters compliance.
 
-Simplify payment processes, streamline government functions, and better serve communities
+Simplify payment processes, streamline government functions, and better serve communities.
