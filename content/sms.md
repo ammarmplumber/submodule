@@ -93,12 +93,12 @@ date: 2018-02-22T17:01:34+07:00
     <li>Increases collections and boosts public confidence in your services</li>
     <li>Can fully integrate with existing management software</li>
     </ul>
-    <br><br>
+    <br>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/2nPEIOhOCmA" loading="lazy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <div class="flex-child-1">
         <iframe width="560" loading="lazy" height="315" src="https://www.youtube.com/embed/_YeiBYrJLSI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" class="center" allowfullscreen></iframe>
     </div>
 </div>
-
+<br><br>
 <a href="/contact/">Learn more</a>
