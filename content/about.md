@@ -15,4 +15,4 @@ We make smart technology simple and accessible for local governments. For 30 yea
 
 ## Client Map
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1xBZHf9lTIakqyJF19SbAZ9KfN0A&ehbc=2E312F" width="1000" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1xBZHf9lTIakqyJF19SbAZ9KfN0A&ehbc=2E312F" loading="lazy" width="1000" height="480"></iframe>
