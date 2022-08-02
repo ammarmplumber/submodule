@@ -76,54 +76,54 @@ date: 2018-02-22T17:01:34+07:00
     {{< imgur-item imgid="980UH4Wh" city="" type="" >}}
     {{< imgur-item imgid="0j7fM8mh" city="" type="" >}}
     {{< imgur-item imgid="5JFURC8h" city="" type="" >}}
-    {{< imgur-item imgid="3jlVBXKh" city="" type="" >}}
-    {{< imgur-item imgid="VlVwu1Kh" city="" type="" >}}
-    {{< imgur-item imgid="5K9lrRbh" city="" type="" >}}
-    {{< imgur-item imgid="CTRpmwxh" city="" type="" >}}
-    {{< imgur-item imgid="M9Vabr3h" city="" type="" >}}
-    {{< imgur-item imgid="X0tFnqAh" city="" type="" >}}
-    {{< imgur-item imgid="rrT7cDzh" city="" type="" >}}
-    {{< imgur-item imgid="m9owv3dh" city="" type="" >}}
-    {{< imgur-item imgid="OUkZgmKh" city="" type="" >}}
-    {{< imgur-item imgid="27Jv9a2h" city="" type="" >}}
-    {{< imgur-item imgid="Yq0tNjGh" city="" type="" >}}
-    {{< imgur-item imgid="ooEq9kHh" city="" type="" >}}
-    {{< imgur-item imgid="apSpuiSh" city="" type="" >}}
-    {{< imgur-item imgid="jeKAkpfh" city="" type="" >}}
-    {{< imgur-item imgid="X7z2mPOh" city="" type="" >}}
-    {{< imgur-item imgid="FfaacVth" city="" type="" >}}
-    {{< imgur-item imgid="4nbrLBSh" city="" type="" >}}
-    {{< imgur-item imgid="q36fGsFh" city="" type="" >}}
-    {{< imgur-item imgid="DEcy082h" city="" type="" >}}
-    {{< imgur-item imgid="ubbEdIIh" city="" type="" >}}
-    {{< imgur-item imgid="SxHIIePh" city="" type="" >}}
-    {{< imgur-item imgid="OAkrYbRh" city="" type="" >}}
-    {{< imgur-item imgid="BbB2JvLh" city="" type="" >}}
+    {{< imgur-item imgid="3jlVBXKh" city="Philadelphia, PA" type="General" >}}
+    {{< imgur-item imgid="VlVwu1Kh" city="Room Rent" type="Housing" >}}
+    {{< imgur-item imgid="5K9lrRbh" city="San Antonio, TX" type="Remote Magistration" >}}
+    {{< imgur-item imgid="CTRpmwxh" city="Sand Springs, OK" type="Utilities" >}}
+    {{< imgur-item imgid="M9Vabr3h" city="Dodge City, KS" type="Utilities" >}}
+    {{< imgur-item imgid="X0tFnqAh" city="Gretna, LA" type="Utilities, Tax & Other" >}}
+    {{< imgur-item imgid="rrT7cDzh" city="Albemarle County, VA" type="Property & Real Estate" >}}
+    {{< imgur-item imgid="m9owv3dh" city="Albemarle County, VA" type="Property & Real Estate" >}}
+    {{< imgur-item imgid="OUkZgmKh" city="Gretna, LA" type="Utilities, General & Tax" >}}
+    {{< imgur-item imgid="27Jv9a2h" city="Upper Arlington, OH" type="Bonds & Citations" >}}
+    {{< imgur-item imgid="Yq0tNjGh" city="Odessa, TX" type="Utilities" >}}
+    {{< imgur-item imgid="ooEq9kHh" city="Baker, LA" type="Utilities" >}}
+    {{< imgur-item imgid="apSpuiSh" city="Dumas, TX" type="Utilities & Other" >}}
+    {{< imgur-item imgid="jeKAkpfh" city="Dumas, TX" type="Utilities & Other" >}}
+    {{< imgur-item imgid="X7z2mPOh" city="Dalton-OptiLink, GA" type="Utilities" >}}
+    {{< imgur-item imgid="FfaacVth" city="Brenham, TX" type="Courts & Utilities" >}}
+    {{< imgur-item imgid="4nbrLBSh" city="Kingsville, TX" type="Courts & Utilities" >}}
+    {{< imgur-item imgid="q36fGsFh" city="Dilley, TX" type="Utilities" >}}
+    {{< imgur-item imgid="DEcy082h" city="Dilley, TX" type="Utilities" >}}
+    {{< imgur-item imgid="ubbEdIIh" city="Kaplan, LA" type="Utilities & Tax" >}}
+    {{< imgur-item imgid="SxHIIePh" city="Perry, GA" type="Utilities" >}}
+    {{< imgur-item imgid="OAkrYbRh" city="Perry, GA" type="Utilities" >}}
+    {{< imgur-item imgid="BbB2JvLh" city="Winter Springs, FL" type="Utilities" >}}
     {{< imgur-item imgid="XUMuOmsh" city="" type="" >}}
-    {{< imgur-item imgid="WXsrAzph" city="" type="" >}}
-    {{< imgur-item imgid="8ztyKa6h" city="" type="" >}}
-    {{< imgur-item imgid="qjoe6F2h" city="" type="" >}}
-    {{< imgur-item imgid="QKwA0B5h" city="" type="" >}}
-    {{< imgur-item imgid="OVxwLyth" city="" type="" >}}
-    {{< imgur-item imgid="jIaDxvUh" city="" type="" >}}
-    {{< imgur-item imgid="kJvacWlh" city="" type="" >}}
-    {{< imgur-item imgid="hex4kkeh" city="" type="" >}}
-    {{< imgur-item imgid="Gdply1hh" city="" type="" >}}
-    {{< imgur-item imgid="jkqNA0Zh" city="" type="" >}}
-    {{< imgur-item imgid="tUbiWK4h" city="" type="" >}}
-    {{< imgur-item imgid="g2FAlmjh" city="" type="" >}}
-    {{< imgur-item imgid="gMcvOtSh" city="" type="" >}}
-    {{< imgur-item imgid="rrMSbsCh" city="" type="" >}}
-    {{< imgur-item imgid="ii6cPlbh" city="" type="" >}}
-    {{< imgur-item imgid="yf4BhUVh" city="" type="" >}}
-    {{< imgur-item imgid="fhDv9joh" city="" type="" >}}
-    {{< imgur-item imgid="avtv4EWh" city="" type="" >}}
-    {{< imgur-item imgid="TW0hIK5h" city="" type="" >}}
-    {{< imgur-item imgid="PyxnO6ch" city="" type="" >}}
-    {{< imgur-item imgid="Dw2SAqQh" city="" type="" >}}
-    {{< imgur-item imgid="Ytg81sBh" city="" type="" >}}
-    {{< imgur-item imgid="Hl3KLcHh" city="" type="" >}}
-    {{< imgur-item imgid="EoCrquzh" city="" type="" >}}
+    {{< imgur-item imgid="WXsrAzph" city="Uvalde, TX" type="Utilities" >}}
+    {{< imgur-item imgid="8ztyKa6h" city="Dayton, TX" type="Courts & Utilities" >}}
+    {{< imgur-item imgid="qjoe6F2h" city="Osawatomie, KS" type="Utilities" >}}
+    {{< imgur-item imgid="QKwA0B5h" city="Pittsburg, KS" type="Utilities" >}}
+    {{< imgur-item imgid="OVxwLyth" city="Bahama Grand Authority" type="General" >}}
+    {{< imgur-item imgid="jIaDxvUh" city="Wichita Falls, TX" type="Utilities" >}}
+    {{< imgur-item imgid="kJvacWlh" city="Bahama Grand" type="Utilities" >}}
+    {{< imgur-item imgid="hex4kkeh" city="Center, TX" type="Utilities" >}}
+    {{< imgur-item imgid="Gdply1hh" city="Conroe, TX" type="Utilities" >}}
+    {{< imgur-item imgid="jkqNA0Zh" city="Katy, TX" type="Utilities" >}}
+    {{< imgur-item imgid="tUbiWK4h" city="Sweetwater, TX" type="Utilities" >}}
+    {{< imgur-item imgid="g2FAlmjh" city="Hayward, CA" type="Utilities" >}}
+    {{< imgur-item imgid="gMcvOtSh" city="Burkburnett, TX" type="Courts, Utilities & Other" >}}
+    {{< imgur-item imgid="rrMSbsCh" city="Fulton County, GA" type="Utilities" >}}
+    {{< imgur-item imgid="ii6cPlbh" city="Denison, TX" type="Courts & Utilities" >}}
+    {{< imgur-item imgid="yf4BhUVh" city="Asheboro, NC" type="Utilities" >}}
+    {{< imgur-item imgid="fhDv9joh" city="Asheboro, NC" type="Utilities" >}}
+    {{< imgur-item imgid="avtv4EWh" city="Brenham, TX" type="Courts & Utilities" >}}
+    {{< imgur-item imgid="TW0hIK5h" city="Denison, TX" type="Courts & Utilities" >}}
+    {{< imgur-item imgid="PyxnO6ch" city="Fort Stockton, TX" type="Utilities" >}}
+    {{< imgur-item imgid="Dw2SAqQh" city="Lake Charles, LA" type="Utilities" >}}
+    {{< imgur-item imgid="Ytg81sBh" city="Pecos, TX" type="Courts & Utilities" >}}
+    {{< imgur-item imgid="Hl3KLcHh" city="Reno, TX" type="Courts & Utilities" >}}
+    {{< imgur-item imgid="EoCrquzh" city="Sealy, TX" type="Courts, Utilities & Other" >}}
     {{< imgur-item imgid="2JQE2Roh" city="Tecumseh, OK" type="Courts & Utilities" >}}
     {{< imgur-item imgid="uoGGaWAh" city="Tyler, TX" type="Utilities" >}}
     {{< imgur-item imgid="zEtJYXYh" city="St. Martinville, LA" type="Utilities" >}}
