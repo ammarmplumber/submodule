@@ -124,23 +124,23 @@ date: 2018-02-22T17:01:34+07:00
     {{< imgur-item imgid="Ytg81sBh" city="" type="" >}}
     {{< imgur-item imgid="Hl3KLcHh" city="" type="" >}}
     {{< imgur-item imgid="EoCrquzh" city="" type="" >}}
-    {{< imgur-item imgid="2JQE2Roh" city="" type="" >}}
-    {{< imgur-item imgid="uoGGaWAh" city="" type="" >}}
-    {{< imgur-item imgid="zEtJYXYh" city="" type="" >}}
-    {{< imgur-item imgid="KKwmO1Wh" city="" type="" >}}
-    {{< imgur-item imgid="I2vLyfzh" city="" type="" >}}
-    {{< imgur-item imgid="BLjzKYKh" city="" type="" >}}
-    {{< imgur-item imgid="Xfjawseh" city="" type="" >}}
-    {{< imgur-item imgid="RxwdsKeh" city="" type="" >}}
-    {{< imgur-item imgid="pelaYxbh" city="" type="" >}}
-    {{< imgur-item imgid="6p1JrMch" city="" type="" >}}
-    {{< imgur-item imgid="V2JhOuFh" city="" type="" >}}
-    {{< imgur-item imgid="xbXIr8Eh" city="" type="" >}}
-    {{< imgur-item imgid="R915ZbPh" city="" type="" >}}
-    {{< imgur-item imgid="lvjZnVXh" city="" type="" >}}
-    {{< imgur-item imgid="6BI07yXh" city="" type="" >}}
-    {{< imgur-item imgid="xzVfZglh" city="" type="" >}}
-    {{< imgur-item imgid="3IZZeAlh" city="" type="" >}}
+    {{< imgur-item imgid="2JQE2Roh" city="Tecumseh, OK" type="Courts & Utilities" >}}
+    {{< imgur-item imgid="uoGGaWAh" city="Tyler, TX" type="Utilities" >}}
+    {{< imgur-item imgid="zEtJYXYh" city="St. Martinville, LA" type="Utilities" >}}
+    {{< imgur-item imgid="KKwmO1Wh" city="Ferris, TX" type="Courts, Utilities & Other" >}}
+    {{< imgur-item imgid="I2vLyfzh" city="Katy, TX" type="Utilities" >}}
+    {{< imgur-item imgid="BLjzKYKh" city="Breaux Bridge, LA" type="Utilities & Other" >}}
+    {{< imgur-item imgid="Xfjawseh" city="Cape Fear, NC" type="Utilities" >}}
+    {{< imgur-item imgid="RxwdsKeh" city="Fairfield, CA" type="Utilities" >}}
+    {{< imgur-item imgid="pelaYxbh" city="Ferris, TX" type="Courts & Utilities" >}}
+    {{< imgur-item imgid="6p1JrMch" city="Altus, OK" type="Utilities" >}}
+    {{< imgur-item imgid="V2JhOuFh" city="Anna, TX" type="Courts & Utilities" >}}
+    {{< imgur-item imgid="xbXIr8Eh" city="Harker Height" type="Courts & Utilities" >}}
+    {{< imgur-item imgid="R915ZbPh" city="Lake Charles, LA" type="Utilities" >}}
+    {{< imgur-item imgid="lvjZnVXh" city="Lockhart, TX" type="Courts & Utilities" >}}
+    {{< imgur-item imgid="6BI07yXh" city="Altus, OK" type="Utilities" >}}
+    {{< imgur-item imgid="xzVfZglh" city="Aurora, IL" type="Utilities & Parking Tickets" >}}
+    {{< imgur-item imgid="3IZZeAlh" city="Brownfield, TX" type="Courts & Utilities" >}}
     {{< imgur-item imgid="Ad58E37h" city="Energy United, NC" type="Utilities" >}}
     {{< imgur-item imgid="K8x9vmVh" city="Nacogdoches, TX" type="Utilities" >}}
     {{< imgur-item imgid="XDq3dRWh" city="Dalton-OptiLink, GA" type="Utilities" >}}
