@@ -74,8 +74,8 @@ date: 2018-02-22T17:01:34+07:00
     {{< imgur-item imgid="lkLIJ4ch" city="" type="" >}}
     {{< imgur-item imgid="k34W6Mjh" city="" type="" >}}
     {{< imgur-item imgid="980UH4Wh" city="" type="" >}}
-    {{< imgur-item imgid="0j7fM8mh" city="" type="General" >}}
-    {{< imgur-item imgid="5JFURC8h" city="Philadelphia, PA" type="" >}}
+    {{< imgur-item imgid="0j7fM8mh" city="" type="" >}}
+    {{< imgur-item imgid="5JFURC8h" city="Philadelphia, PA" type="General" >}}
     {{< imgur-item imgid="3jlVBXKh" city="Room Rent" type="Housing" >}}
     {{< imgur-item imgid="VlVwu1Kh" city="San Antonio, TX" type="Remote Magistration" >}}
     {{< imgur-item imgid="5K9lrRbh" city="Sand Springs, OK" type="Utilities" >}}
