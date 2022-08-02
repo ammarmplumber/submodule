@@ -99,7 +99,7 @@ date: 2018-02-22T17:01:34+07:00
     {{< imgur-item imgid="SxHIIePh" city="Perry, GA" type="Utilities" >}}
     {{< imgur-item imgid="OAkrYbRh" city="Perry, GA" type="Utilities" >}}
     {{< imgur-item imgid="BbB2JvLh" city="Winter Springs, FL" type="Utilities" >}}
-    {{< imgur-item imgid="XUMuOmsh" city="" type="" >}}
+    {{< imgur-item imgid="XUMuOmsh" city=" " type=" " >}}
     {{< imgur-item imgid="WXsrAzph" city="Uvalde, TX" type="Utilities" >}}
     {{< imgur-item imgid="8ztyKa6h" city="Dayton, TX" type="Courts & Utilities" >}}
     {{< imgur-item imgid="qjoe6F2h" city="Osawatomie, KS" type="Utilities" >}}
