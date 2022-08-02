@@ -149,10 +149,10 @@ date: 2018-02-22T17:01:34+07:00
     {{< imgur-item imgid="oJJTAOUh" caption=" " >}}
     {{< imgur-item imgid="5ayBOGSh" caption=" " >}}
     {{< imgur-item imgid="RxGEdFZh" caption=" " >}}
-    {{< imgur-item imgid="bohLss2h" caption=" " >}}
-    {{< imgur-item imgid="WfcuGnYh" caption=" " >}}
-    {{< imgur-item imgid="EmVcPakh" caption=" " >}}
-    {{< imgur-item imgid="fny4wY5h" caption=" " >}}
-    {{< imgur-item imgid="Dw2mqZNh" caption=" " >}}
-    {{< imgur-item imgid="ZDlAUsVh" caption=" " >}}
+    {{< imgur-item imgid="bohLss2h" city=" " type=" " >}}
+    {{< imgur-item imgid="WfcuGnYh" city=" " type=" " >}}
+    {{< imgur-item imgid="EmVcPakh" city=" " type=" " >}}
+    {{< imgur-item imgid="fny4wY5h" city=" " type=" " >}}
+    {{< imgur-item imgid="Dw2mqZNh" city=" " type=" " >}}
+    {{< imgur-item imgid="ZDlAUsVh" city="Webb County, TX" type="Utilities" >}}
 {{< /gallery >}}
