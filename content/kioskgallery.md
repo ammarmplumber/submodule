@@ -4,77 +4,77 @@ date: 2018-02-22T17:01:34+07:00
 ---
 
 {{< gallery >}}
-    {{< imgur-item imgid="8MukX1Dh" city="" type="" >}}
-    {{< imgur-item imgid="mQoble4h" city="" type="" >}}
-    {{< imgur-item imgid="qrHpdZSh" city="" type="" >}}
-    {{< imgur-item imgid="m2YMGEAh" city="" type="" >}}
-    {{< imgur-item imgid="qDsKJqzh" city="" type="" >}}
-    {{< imgur-item imgid="IoBIYkoh" city="" type="" >}}
-    {{< imgur-item imgid="jEeB5Glh" city="" type="" >}}
-    {{< imgur-item imgid="C2ymqCRh" city="" type="" >}}
-    {{< imgur-item imgid="YsOwqMnh" city="" type="" >}}
-    {{< imgur-item imgid="D8U5B39h" city="" type="" >}}
-    {{< imgur-item imgid="GNPFlxth" city="" type="" >}}
-    {{< imgur-item imgid="m8w3PTFh" city="" type="" >}}
-    {{< imgur-item imgid="pkm0qhAh" city="" type="" >}}
-    {{< imgur-item imgid="R8CSVBIh" city="" type="" >}}
-    {{< imgur-item imgid="PWEIUkoh" city="" type="" >}}
-    {{< imgur-item imgid="DdDCjJGh" city="" type="" >}}
-    {{< imgur-item imgid="2lZH0FPh" city="" type="" >}}
-    {{< imgur-item imgid="4yTTccfh" city="" type="" >}}
-    {{< imgur-item imgid="hiwF75Kh" city="" type="" >}}
-    {{< imgur-item imgid="ENu9msjh" city="" type="" >}}
-    {{< imgur-item imgid="rwg05hbh" city="" type="" >}}
-    {{< imgur-item imgid="2lJOS8lh" city="" type="" >}}
-    {{< imgur-item imgid="MtHHWk9h" city="" type="" >}}
-    {{< imgur-item imgid="M7LfGdEh" city="" type="" >}}
-    {{< imgur-item imgid="EP9X3Aih" city="" type="" >}}
-    {{< imgur-item imgid="ixbzkuPh" city="" type="" >}}
-    {{< imgur-item imgid="91NbsSfh" city="" type="" >}}
-    {{< imgur-item imgid="S1Ztz9Sh" city="" type="" >}}
-    {{< imgur-item imgid="L96OdRlh" city="" type="" >}}
-    {{< imgur-item imgid="BJ8DBoIh" city="" type="" >}}
-    {{< imgur-item imgid="Wk2vsbdh" city="" type="" >}}
-    {{< imgur-item imgid="EJo3fAdh" city="" type="" >}}
-    {{< imgur-item imgid="o23h35Rh" city="" type="" >}}
-    {{< imgur-item imgid="wqIuLtQh" city="" type="" >}}
-    {{< imgur-item imgid="BvIx7BKh" city="" type="" >}}
-    {{< imgur-item imgid="V6jPwAJh" city="" type="" >}}
-    {{< imgur-item imgid="Hov0Eueh" city="" type="" >}}
-    {{< imgur-item imgid="OVkeivwh" city="" type="" >}}
-    {{< imgur-item imgid="PrXb0jCh" city="" type="" >}}
-    {{< imgur-item imgid="rPOShQUh" city="" type="" >}}
-    {{< imgur-item imgid="Ha9MdzFh" city="" type="" >}}
-    {{< imgur-item imgid="TObEpDwh" city="" type="" >}}
-    {{< imgur-item imgid="XAb1R6Wh" city="" type="" >}}
-    {{< imgur-item imgid="51jKHwVh" city="" type="" >}}
-    {{< imgur-item imgid="D9MtBPvh" city="" type="" >}}
-    {{< imgur-item imgid="wj5GxQqh" city="" type="" >}}
-    {{< imgur-item imgid="vq5dyh4h" city="" type="" >}}
-    {{< imgur-item imgid="LTfwWiih" city="" type="" >}}
-    {{< imgur-item imgid="xjqPgaIh" city="" type="" >}}
-    {{< imgur-item imgid="rBOpm4ch" city="" type="" >}}
-    {{< imgur-item imgid="dqBqfqgh" city="" type="" >}}
-    {{< imgur-item imgid="vEtS1hfh" city="" type="" >}}
-    {{< imgur-item imgid="Maj9X3Uh" city="" type="" >}}
-    {{< imgur-item imgid="wSQ3noch" city="" type="" >}}
-    {{< imgur-item imgid="Pn9Wt5xh" city="" type="" >}}
-    {{< imgur-item imgid="TVfHXElh" city="" type="" >}}
-    {{< imgur-item imgid="vIUGcv2h" city="" type="" >}}
-    {{< imgur-item imgid="uUc6BwKh" city="" type="" >}}
-    {{< imgur-item imgid="d1HShGqh" city="" type="" >}}
-    {{< imgur-item imgid="x42beyCh" city="" type="" >}}
-    {{< imgur-item imgid="dzdLnfmh" city="" type="" >}}
-    {{< imgur-item imgid="VhBmTAyh" city="" type="" >}}
-    {{< imgur-item imgid="2Be4Tueh" city="" type="" >}}
-    {{< imgur-item imgid="iCIQwhAh" city="" type="" >}}
-    {{< imgur-item imgid="wfGFPr4h" city="" type="" >}}
-    {{< imgur-item imgid="X01PqZ4h" city="" type="" >}}
-    {{< imgur-item imgid="BpBAfGgh" city="" type="" >}}
-    {{< imgur-item imgid="lkLIJ4ch" city="" type="" >}}
-    {{< imgur-item imgid="k34W6Mjh" city="" type="" >}}
-    {{< imgur-item imgid="980UH4Wh" city="" type="" >}}
-    {{< imgur-item imgid="0j7fM8mh" city="" type="" >}}
+    {{< imgur-item imgid="8MukX1Dh" city="Big Spring, TX" type="Courts & Utilities" >}}
+    {{< imgur-item imgid="mQoble4h" city="Zachary, LA" type="Utilities" >}}
+    {{< imgur-item imgid="qrHpdZSh" city="Odessa, TX" type="Utilities" >}}
+    {{< imgur-item imgid="m2YMGEAh" city="Pasadena, TX" type="Utilities" >}}
+    {{< imgur-item imgid="qDsKJqzh" city="Conroe, TX" type="Courts" >}}
+    {{< imgur-item imgid="IoBIYkoh" city="Abilene, TX" type="Utilities" >}}
+    {{< imgur-item imgid="jEeB5Glh" city="Asheboro, NC" type="Utilities" >}}
+    {{< imgur-item imgid="C2ymqCRh" city="Abbeville, LA" type="Utilities" >}}
+    {{< imgur-item imgid="YsOwqMnh" city="Breaux Bridge, LA" type="Utilities & Other" >}}
+    {{< imgur-item imgid="D8U5B39h" city="Deridder, LA" type="Utilities" >}}
+    {{< imgur-item imgid="GNPFlxth" city="Dickson, TN" type="Utilities" >}}
+    {{< imgur-item imgid="m8w3PTFh" city="Lancaster, TX" type="Utilities" >}}
+    {{< imgur-item imgid="pkm0qhAh" city="Pecos, TX" type="Courts & Utilities" >}}
+    {{< imgur-item imgid="R8CSVBIh" city="Tecumseh, OK" type="Courts & Utilities" >}}
+    {{< imgur-item imgid="PWEIUkoh" city="Tyler, TX" type="Utilities" >}}
+    {{< imgur-item imgid="DdDCjJGh" city="Wichita Falls, TX" type="Utilities" >}}
+    {{< imgur-item imgid="2lZH0FPh" city="La Porte, TX" type="Utilities" >}}
+    {{< imgur-item imgid="4yTTccfh" city="Fayetteville, NC" type="Utilities" >}}
+    {{< imgur-item imgid="hiwF75Kh" city="Fayetteville, NC" type="Utilities" >}}
+    {{< imgur-item imgid="ENu9msjh" city="Anna, TX" type="Courts & Utilities" >}}
+    {{< imgur-item imgid="rwg05hbh" city="Post City" type="Utilities & Other" >}}
+    {{< imgur-item imgid="2lJOS8lh" city="Combes, TX" type="Courts, Utilities & Other" >}}
+    {{< imgur-item imgid="MtHHWk9h" city="Ft. Lauderdale, FL" type="Utilities" >}}
+    {{< imgur-item imgid="M7LfGdEh" city="Ft. Lauderdale, FL" type="Utilities" >}}
+    {{< imgur-item imgid="EP9X3Aih" city="Reno, TX" type="Courts & Utilities" >}}
+    {{< imgur-item imgid="ixbzkuPh" city="Post City, TX" type="Utilities & General" >}}
+    {{< imgur-item imgid="91NbsSfh" city="Navasota, TX" type="Utilities" >}}
+    {{< imgur-item imgid="S1Ztz9Sh" city="Boston, MA" type="Parking Ticket" >}}
+    {{< imgur-item imgid="L96OdRlh" city="Brenham, TX" type="Courts & Utilities" >}}
+    {{< imgur-item imgid="BJ8DBoIh" city="Chesterfield County, VA" type="Taxes" >}}
+    {{< imgur-item imgid="Wk2vsbdh" city="Cocoa, FL" type="Utilities" >}}
+    {{< imgur-item imgid="EJo3fAdh" city="Columbus, TX" type="General" >}}
+    {{< imgur-item imgid="o23h35Rh" city="Conroe, TX" type="Courts" >}}
+    {{< imgur-item imgid="wqIuLtQh" city="Kerrville, TX" type="Courts & Transport" >}}
+    {{< imgur-item imgid="BvIx7BKh" city="Brownsville, TX" type="Courts" >}}
+    {{< imgur-item imgid="V6jPwAJh" city="Cincinnati Vital Records" type="Birth/Death Certificates" >}}
+    {{< imgur-item imgid="Hov0Eueh" city="Dallas County" type="Taxes" >}}
+    {{< imgur-item imgid="OVkeivwh" city="Dalton-OptiLink, GA" type="Utilities" >}}
+    {{< imgur-item imgid="PrXb0jCh" city="Dalton-OptiLink, GA" type="Utilities" >}}
+    {{< imgur-item imgid="rPOShQUh" city="Del Rio, TX" type="Utilities" >}}
+    {{< imgur-item imgid="Ha9MdzFh" city="City of Denton, TX" type="Remote Magistration" >}}
+    {{< imgur-item imgid="TObEpDwh" city="El Reno, OK" type="Courts, Utilities & Pavilion" >}}
+    {{< imgur-item imgid="XAb1R6Wh" city="St. Vincent, Bequia" type="Electricity" >}}
+    {{< imgur-item imgid="51jKHwVh" city="Hamilton, OH" type="Courts & Utilities" >}}
+    {{< imgur-item imgid="D9MtBPvh" city="Keller, TX" type="Jail Payments" >}}
+    {{< imgur-item imgid="wj5GxQqh" city="Keller, TX" type="Jail Payments" >}}
+    {{< imgur-item imgid="vq5dyh4h" city="Keller, TX" type="Jail Payments" >}}
+    {{< imgur-item imgid="LTfwWiih" city="Carrollton, TX" type="Jail Payments" >}}
+    {{< imgur-item imgid="xjqPgaIh" city="Kerrville, TX" type="Courts & Transport" >}}
+    {{< imgur-item imgid="rBOpm4ch" city="Lake Charles, LA" type="Utilities" >}}
+    {{< imgur-item imgid="dqBqfqgh" city="Lewisville, TX" type="Utilities" >}}
+    {{< imgur-item imgid="vEtS1hfh" city="Carrollton, TX" type="Courts" >}}
+    {{< imgur-item imgid="Maj9X3Uh" city="Freeport, TX" type="Courts & Utilities" >}}
+    {{< imgur-item imgid="wSQ3noch" city="Sapulpa, OK" type="Utilities" >}}
+    {{< imgur-item imgid="Pn9Wt5xh" city="Kennedale, TX" type="Utilities" >}}
+    {{< imgur-item imgid="TVfHXElh" city="Boston, MA" type="Parking Ticket" >}}
+    {{< imgur-item imgid="vIUGcv2h" city="Chesterfield County, VA" type="Taxes" >}}
+    {{< imgur-item imgid="uUc6BwKh" city=" " type=" " >}}
+    {{< imgur-item imgid="d1HShGqh" city="Holyoke, MA" type="Utilities" >}}
+    {{< imgur-item imgid="x42beyCh" city="Lancaster, TX" type="Utilities" >}}
+    {{< imgur-item imgid="dzdLnfmh" city="Lewisville, TX" type="Utilities" >}}
+    {{< imgur-item imgid="VhBmTAyh" city="Norcross, GA" type="Utilities" >}}
+    {{< imgur-item imgid="2Be4Tueh" city="N. Las Vegas, NV" type="Utilities" >}}
+    {{< imgur-item imgid="iCIQwhAh" city="OPPD, NE" type="Utilities" >}}
+    {{< imgur-item imgid="wfGFPr4h" city="Poteet, TX" type="General" >}}
+    {{< imgur-item imgid="X01PqZ4h" city="Schertz, TX" type="Utilities" >}}
+    {{< imgur-item imgid="BpBAfGgh" city="Lewisville, TX" type="Utilities" >}}
+    {{< imgur-item imgid="lkLIJ4ch" city="Wichita Falls, TX" type="Utilities" >}}
+    {{< imgur-item imgid="k34W6Mjh" city="Dalhart, TX" type="Utilities" >}}
+    {{< imgur-item imgid="980UH4Wh" city="Gallatin, TN" type="Utilities" >}}
+    {{< imgur-item imgid="0j7fM8mh" city="Coppell, TX" type="Utilities & Permits" >}}
     {{< imgur-item imgid="5JFURC8h" city="Philadelphia, PA" type="General" >}}
     {{< imgur-item imgid="3jlVBXKh" city="Room Rent" type="Housing" >}}
     {{< imgur-item imgid="VlVwu1Kh" city="San Antonio, TX" type="Remote Magistration" >}}
